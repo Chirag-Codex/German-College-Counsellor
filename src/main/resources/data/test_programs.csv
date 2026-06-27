@@ -1,0 +1,2 @@
+source,universityName,city,programName,specialization,courseLanguage,minCgpa,minIelts,tuitionFee,intake,apsRequired,sourceUrl
+University,KIT,Karlsruhe,Data Science,Machine Learning,English,7.2,6.5,1500.0,Winter,true,
